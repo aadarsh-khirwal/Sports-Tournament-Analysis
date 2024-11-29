@@ -36,7 +36,7 @@ pip install plotly
 
 ### Tableau Dashboard
 
-Along with python analysis, I've built the [**dashboard**](https://public.tableau.com/app/profile/ameet.singh.manyal/viz/T20_World_Cup_2022_Analysis/Dashboard1) using Tableau Public in my profile. Below is how the dashboards looks like:
+Along with python analysis, I've built the dashboard using Tableau Public in my profile. Below is how the dashboards looks like:
 
 ![Tableau Dashboard](https://github.com/ameetsinghmanyal/t20-world-cup-2022-analysis/blob/main/dashboard-1.jpeg)
 
